@@ -32,6 +32,6 @@
                 <li><a href="bylaws.php">Lincoln Atheists Bylaws</a></li>
             </ul>
         </li>
-        <li><a href="contact.php">Contact</a></li>
+<!--        <li><a href="contact.php">Contact</a></li>-->
     </ul>
 </nav>

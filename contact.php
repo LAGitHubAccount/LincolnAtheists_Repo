@@ -51,7 +51,7 @@
                     <a href="#" class="image featured"><img src="images/pic01.svg" alt="" /></a>
                     <header>
                         <h2>Contact Form</h2>
-                        <p>Suggestion, comment, question, we would love to hear from you.</p>
+                        <p>Suggestions, comments, questions, we would love to hear from you.</p>
                     </header>
                     <form name="contactform" method="post" action="sendContactFormEmail.php">
                         <table>

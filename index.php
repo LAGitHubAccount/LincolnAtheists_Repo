@@ -152,9 +152,7 @@
                                     s.src = 'http://live-timely-0btxzzhn.time.ly/?ai1ec_js_widget';
                                     d.getElementsByTagName('head')[0].appendChild(s);
                                 })();
-                            </script>									<footer>
-                                <a href="#" class="button alt">Magna sed taciti</a>
-                            </footer>
+                            </script>
                         </section>
 
                     </div>

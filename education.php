@@ -29,15 +29,12 @@
         <!-- Header -->
         <div id="header-wrapper">
             <div id="header">
-
                 <!-- Logo -->
                 <header>
                     <h1>Education</h1>
                 </header>
-
                 <!-- Nav -->
-                <?php include 'load/nav.php';?>
-
+                <?php include 'load/nav.php'; ?>
             </div>
         </div>
 
@@ -53,10 +50,21 @@
                             <header>
                                 <h3>Educational Events</h3>
                             </header>
-
-                            <footer>
+                            <script class="ai1ec-widget-placeholder" data-widget="ai1ec_agenda_widget" data-events_seek_type="events" data-cat_ids="3" data-events_per_page="5">
+                                (function () {
+                                    var d = document, s = d.createElement('script'),
+                                            i = 'ai1ec-script';
+                                    if (d.getElementById(i))
+                                        return;
+                                    s.async = 1;
+                                    s.id = i;
+                                    s.src = 'http://live-timely-0btxzzhn.time.ly/?ai1ec_js_widget';
+                                    d.getElementsByTagName('head')[0].appendChild(s);
+                                })();
+                            </script>
+<!--                            <footer>
                                 <a href="#" class="button alt">Magna sed taciti</a>
-                            </footer>
+                            </footer>-->
                         </section>
                         <section class="box">
                             <header>
@@ -67,9 +75,9 @@
                                 <li><a href="atheistBingo.php">Common Theist Arguments</a></li>
                                 <li><a href="glossary.php">Atheist Terms</a></li>
                             </ul>
-                            <footer>
+<!--                            <footer>
                                 <a href="#" class="button alt">Ipsum consequat</a>
-                            </footer>
+                            </footer>-->
                         </section>
 
                     </div>
@@ -104,7 +112,7 @@
         </div>
 
         <!-- Footer -->
-<?php include 'load/footer.php';?>
+<?php include 'load/footer.php'; ?>
 
     </body>
 </html>

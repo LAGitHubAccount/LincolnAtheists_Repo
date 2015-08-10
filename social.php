@@ -67,7 +67,7 @@
                                 })();
                             </script>
                             <footer>
-                                <a href="#" class="button alt">Event Suggestion</a>
+                                <a href="mailto:activities@lincolnatheists.org?subject=Event Suggestion" class="button alt">Event Suggestion</a>
                             </footer>
                         </section>
                     </div>
@@ -103,7 +103,7 @@
                                     </header>
                                     <p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit  adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
                                     <footer>
-                                        <a href="#" class="button alt">Want to know more?</a>
+                                        <a href="lagg.php" class="button alt">Want to know more?</a>
                                     </footer>
                                 </section>
                             </div>
@@ -115,7 +115,7 @@
                                     </header>
                                     <p>Do you ride a bicycle? So do atheists! We have a cycling group registered with the National Bike Challenge and the more miles the merrier! Click the button below to get registered.</p>
                                     <footer>
-                                        <a href="https://nationalbikechallenge.org/workplace/8684" class="button alt">Want to know more?</a>
+                                        <a href="https://nationalbikechallenge.org/workplace/8684" target="_blank" class="button alt">Want to know more?</a>
                                     </footer>
                                 </section>
                             </div>
@@ -147,51 +147,6 @@
                             </div>
                         </div>
 
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="12u">
-
-                        <!-- Blog -->
-                        <section>
-                            <header class="major">
-                                <h2>The Blog</h2>
-                            </header>
-                            <div class="row">
-                                <div class="6u">
-                                    <section class="box">
-                                        <a href="#" class="image featured"><img src="images/pic08.svg" alt="" /></a>
-                                        <header>
-                                            <h3>Magna tempus consequat lorem</h3>
-                                            <p>Posted 45 minutes ago</p>
-                                        </header>
-                                        <p>Lorem ipsum dolor sit amet sit veroeros sed et blandit consequat sed veroeros lorem et blandit  adipiscing feugiat phasellus tempus hendrerit, tortor vitae mattis tempor, sapien sem feugiat sapien, id suscipit magna felis nec elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos lorem ipsum dolor sit amet.</p>
-                                        <footer>
-                                            <ul class="actions">
-                                                <li><a href="#" class="button icon fa-file-text">Continue Reading</a></li>
-                                                <li><a href="#" class="button alt icon fa-comment">33 comments</a></li>
-                                            </ul>
-                                        </footer>
-                                    </section>
-                                </div>
-                                <div class="6u">
-                                    <section class="box">
-                                        <a href="#" class="image featured"><img src="images/pic09.svg" alt="" /></a>
-                                        <header>
-                                            <h3>Aptent veroeros et aliquam</h3>
-                                            <p>Posted 45 minutes ago</p>
-                                        </header>
-                                        <p>Lorem ipsum dolor sit amet sit veroeros sed et blandit consequat sed veroeros lorem et blandit  adipiscing feugiat phasellus tempus hendrerit, tortor vitae mattis tempor, sapien sem feugiat sapien, id suscipit magna felis nec elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos lorem ipsum dolor sit amet.</p>
-                                        <footer>
-                                            <ul class="actions">
-                                                <li><a href="#" class="button icon fa-file-text">Continue Reading</a></li>
-                                                <li><a href="#" class="button alt icon fa-comment">33 comments</a></li>
-                                            </ul>
-                                        </footer>
-                                    </section>
-                                </div>
-                            </div>
-                        </section>
                     </div>
                 </div>
             </div>

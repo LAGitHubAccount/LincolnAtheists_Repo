@@ -116,7 +116,7 @@
                                         </header>
                                         <p>Any endeavor worth doing requires funding, as such, LA Fundraising exists to solict funding through tax-free contributions to the organization. </p>
                                         <footer>
-                                            <a href="#" class="button alt">Want to know more?</a>
+                                            <a href="mailto:shawn@lincolnatheists.org" class="button alt">Want to know more?</a>
                                         </footer>
                                     </section>
                                 </div>
